@@ -22,3 +22,7 @@ sudo useradd -m $username
 echo "New User added"
 
 
+
+
+
+				
