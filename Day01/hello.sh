@@ -8,6 +8,6 @@ echo "Guys: Well well look who's here :)"
 
 echo "Mehta: Long time guys, so what are you upto nowdays"
 
-echo "Guys: Just learnig some skills in Shell Scripting"
+echo "Guys: Just learning some skills in Shell Scripting"
 
 echo "Mehta: ok ok carry on"
